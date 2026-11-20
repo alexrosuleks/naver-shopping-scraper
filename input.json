@@ -1,0 +1,12 @@
+{
+  "keywords": [
+    "노트북"
+  ],
+  "maxProductsPerKeyword": 20,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
